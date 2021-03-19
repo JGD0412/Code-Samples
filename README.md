@@ -5,7 +5,7 @@
 
 ## Fraud Analytics
 - New York Property Tax Fraud Detection.ipynb: build unsupervised fraud detection algorithm to score each property record;
-- Credit Card Application Fraud:
+- Credit Card Application Fraud Detection:
   - DQR.ipynb: start the project with a data quality report to understand the data better and have a good sense to create variables;
   - Applications Data DQR.docx: data quality report;
   - Create variables.ipynb: create more than 350 new candidate variables;
