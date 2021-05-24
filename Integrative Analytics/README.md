@@ -1,0 +1,5 @@
+## Integrative Analytics: Project portfolio with four projects
+- Restaurant Recommendation.ipynb: build a restaurant recommendation system for group users with Yelp data and user input using deterministic LP to maximize the user’s satisfaction based on their limitations and preferences.
+- Multi-location Transshipment with SGD.ipynb: solve a Multi-location transshipment stochastic problem to minimize collective long-run average costs on the premise of allowing transshipment among retailers applying Stochastic Gradient Descent (SGD).
+- Leo-Wyndor Glass.ipynb: start from Linear Regression to fit the model and then use both deterministic linear programming and stochastic linear programming with Sample Average Approximation (SAA) for prescriptive analysis. Finally, validate the solutions by 95% confidence interval.
+- COVID19 Ventilator allocation.ipynb: utilize the Simple Recourse model in stochastic optimization with Sample Average Approximation to optimize the allocation of ventilators in the US to fulfill as much demand as we could while saving transportation cost.
