@@ -6,8 +6,9 @@
 
 - Criteria Extraction and Evaluation.ipynb
   - All code to extract the six criteria: 
+    
     i) LDA analysis method                                                                           
-    ii)TF-IDF with K-Means Clustering method
+    ii) TF-IDF with K-Means Clustering method
   - All code to evaluate the six chosen criteria and show the importance level
 
 - Aspect-based Sentiment Aanalysis.ipynb:
